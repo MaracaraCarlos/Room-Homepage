@@ -1,4 +1,7 @@
+![desktop-design-slide-1](https://github.com/MaracaraCarlos/Room-Homepage/assets/113530553/668531f4-8b8e-4f7e-b22b-cccacbcc68d9)
+
 # React + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
